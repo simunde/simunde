@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT34hXV07gVlKKi5X9mjpDGRlawITJfAKr7BpE7E02gtIYVqxYW8RoyjX_SPWJo0KS4PcBNy9rqITsAx0UnXeZp0V6zEoldaBCy9FJ9wyyebLEpPoxJgT6BENWxJqpIrihbpcwUsXO45qhcDAJJ3zTldnKkT8Dw_5VGxl2xYTA2trIVGsczYZLJgKj/s1600/MAD%20App%20Architecture%20launch%20-%20header%20%282%29.png)]
 <h1 align="center">Hi 👋, I'm Siddheshwar Munde</h1>
-<h3 align="center">I'm a Software Developer (Android). I'm an Indian living in Bellevue, Washington. Masters in Computer Science</h3>
+<h3 align="center">I'm a Software Developer (Android). I'm an Indian living in Seattle, Washington. Masters in Computer Science</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simunde&label=Profile%20views&color=0e75b6&style=flat" alt="simunde" /> </p>
